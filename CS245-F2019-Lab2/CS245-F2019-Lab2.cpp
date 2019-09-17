@@ -34,7 +34,7 @@ int main()
 		cout << movies.get(i) << endl;
 	}
 
-	// Set up a random number generator seeder
+	// Set up a random number generator seeder 
 	std::random_device seed;
 
 	// Create a random integer generator; chooses random ints from 1 to 5 (inclusive)
