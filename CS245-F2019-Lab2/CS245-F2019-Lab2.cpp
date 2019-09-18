@@ -57,7 +57,7 @@ int main()
 	}
 
 
-	// Print the UPPERCASE string
+	// Print the UPPERCASE string 
 	cout << "And the winner is..." << winner << endl;
 
 	return 0;
